@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd2844b9-56e9-4178-acd9-30da3252c136" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../includes/my.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_compute_power_rec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_compute_square_root.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_find_prime_sup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_getnbr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_getnbr_base.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_is_prime.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_isneg.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_letter_isalpha.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_malloc_nbr_base.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_put_nbr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_putchar.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_putnbr_base.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_putstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_revstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_show_word_array.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_showstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_str_isalpha.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_str_islower.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_str_isnum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_str_isprintable.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_str_isupper.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strcapitalize.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strcat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strcmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strcpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strdup.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strlen.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strlowcase.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strncat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strncmp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strncpy.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strstr.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_strupcase.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources/my_swap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/base.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/check_type_int.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/display_bad_parametre.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/display_space_int.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/display_unsigned.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/my_malloc_nbr_base.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/my_printf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/remplace_str.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/search_caract_attribut.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/search_indicateur.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/search_pourcentage.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/type_char.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/type_int.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/type_str.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/type_unsigned_int.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/my/sources_printf/u.c" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Main.hs" />
+        <option value="$PROJECT_DIR$/src/Lib.hs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="2" />
+    <option name="width" value="1910" />
+    <option name="height" value="1051" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd2844b9-56e9-4178-acd9-30da3252c136" name="Default Changelist" comment="" />
+      <created>1551261613527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551261613527</updated>
+      <workItem from="1551261615062" duration="2911000" />
+      <workItem from="1551284176985" duration="25893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28804000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1054" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="CMake" order="11" visible="true" weight="0.32975295" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Main.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lib.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

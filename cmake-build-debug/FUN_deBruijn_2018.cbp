@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FUN_deBruijn_2018"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FUN_deBruijn_2018">
+				<Option output="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/FUN_deBruijn_2018" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/includes"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 FUN_deBruijn_2018"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FUN_deBruijn_2018/fast">
+				<Option output="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/FUN_deBruijn_2018" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/includes"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 FUN_deBruijn_2018/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/brahimi/delivery/tek2/FUN_deBruijn_2018/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/includes/my.h">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_compute_power_rec.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_compute_square_root.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_find_prime_sup.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_getnbr.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_getnbr_base.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_is_prime.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_isneg.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_letter_isalpha.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_malloc_nbr_base.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_put_nbr.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_putchar.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_putnbr_base.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_putstr.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_revstr.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_show_word_array.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_showstr.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_str_isalpha.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_str_islower.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_str_isnum.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_str_isprintable.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_str_isupper.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strcapitalize.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strcat.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strcmp.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strcpy.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strdup.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strlen.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strlowcase.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strncat.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strncmp.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strncpy.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strstr.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_strupcase.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources/my_swap.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/base.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/check_type_int.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/display_bad_parametre.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/display_space_int.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/display_unsigned.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/my_malloc_nbr_base.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/my_printf.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/remplace_str.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/search_caract_attribut.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/search_indicateur.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/search_pourcentage.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/type_char.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/type_int.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/type_str.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/type_unsigned_int.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/lib/my/sources_printf/u.c">
+			<Option target="FUN_deBruijn_2018"/>
+		</Unit>
+		<Unit filename="/home/brahimi/delivery/tek2/FUN_deBruijn_2018/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
